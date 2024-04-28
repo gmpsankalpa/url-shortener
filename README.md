@@ -46,11 +46,11 @@ To install and run this application locally, follow these steps:
 
 ## Usage
 
-To run the application locally, use the following command:
+1. To run the application locally, use the following command:
     ```bash
     python app.py
 
-Once the application is running, open your web browser and go to `http://localhost:5000` to access the URL shortener interface. You can input a long URL in the provided field and click the "Shorten" button to generate a shortened URL.
+2. Once the application is running, open your web browser and go to `http://localhost:5000` to access the URL shortener interface. You can input a long URL in the provided field and click the "Shorten" button to generate a shortened URL.
 
 ## Deployment
 
